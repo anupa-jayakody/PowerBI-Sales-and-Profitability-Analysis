@@ -1,4 +1,4 @@
-**Sales and Profitability Analysis**
+# Sales and Profitability Analysis
 
 This is a comprehensive Sales and Profitability Analysis done using a synthetic dataset. Tool used for this project is Microsoft PowerBI and data is read from a Excel server using Power Query.
 
